@@ -5,5 +5,4 @@ anchor: almacenamiento_en_cache
 
 # Almacenamiento en Caché {#almacenamiento_en_cache_title}
 
-PHP is pretty quick by itself, but bottlenecks can arise when you make remote connections, load files, etc.
-Thankfully, there are various tools available to speed up certain parts of your application, or reduce the number of times these various time-consuming tasks need to run.
+PHP es bastante rápido por sí mismo, pero pueden surgir cuellos de botella al hacer conexiones remotas, cargar archivos, etc. Afortunadamente, hay varias herramientas disponibles para acelerar ciertas partes de tu aplicación o reducir la cantidad de veces que estas tareas que consumen tiempo necesitan ejecutarse.
